@@ -1,0 +1,14 @@
+{
+    "name": "WebServiceConsumer",
+    "description": "Modelo de cliente para consumir WebServices",
+    "authors": [
+        {
+            "name": "Yago Sabino",
+            "email": "yagovsabino@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8",
+        "js" : "*.*"
+    }
+}
