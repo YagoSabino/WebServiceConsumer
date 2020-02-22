@@ -1,7 +1,7 @@
 {
     "name": "yagosabino/consumer",
     "description": "Modelo de cliente para consumir WebServices",
-    "version" : "1.0"
+    "version" : "1.0",
     "authors": [
         {
             "name": "Yago Sabino",
