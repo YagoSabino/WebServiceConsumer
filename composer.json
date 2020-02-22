@@ -1,6 +1,7 @@
 {
-    "name": "WebServiceConsumer",
+    "name": "yagosabino/consumer",
     "description": "Modelo de cliente para consumir WebServices",
+    "version" : "1.0"
     "authors": [
         {
             "name": "Yago Sabino",
@@ -9,6 +10,5 @@
     ],
     "require": {
         "php": ">=5.2.8",
-        "consumer/js" : "*.*"
     }
 }
